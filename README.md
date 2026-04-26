@@ -43,6 +43,22 @@ All categories generate good sales, but their profit levels are different. Techn
 
 The business should focus more on Technology and Office Supplies as they bring strong profit. For Furniture, the company should review costs or pricing because even though it sells well, it is not generating enough profit.
 
+## 4. Region Analysis
+
+## Visualization
+
+<img width="1920" height="1080" alt="Region analysis" src="https://github.com/user-attachments/assets/81fb4fe8-596b-40de-b968-be40645ee286" />
+
+
+## Insights
+
+The West region generates the highest sales, followed by the East. Central and South regions contribute less, with South being the lowest-performing region.
+
+## Business Recommendation
+
+The business should focus on expanding in high-performing regions like West and East, while improving strategies in lower-performing regions such as Central and South.
+
+
 
 
 
