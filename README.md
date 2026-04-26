@@ -58,6 +58,12 @@ The West region generates the highest sales, followed by the East. Central and S
 
 The business should focus on expanding in high-performing regions like West and East, while improving strategies in lower-performing regions such as Central and South.
 
+##  Final Dashboard
+<img width="1920" height="1080" alt="Sales Performance Dashboard" src="https://github.com/user-attachments/assets/25a1625e-fcfa-4819-86d8-52156f2eada6" />
+
+Sales are growing steadily, with strong performance driven by a few top products and the Technology category. The West region leads in overall sales.
+
+
 
 
 
