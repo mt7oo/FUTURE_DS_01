@@ -1,3 +1,11 @@
+###TASK 1
+
+Tool used: Tablue
+
+Dataset used: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
+
+
 ## 1.Revenue Trend Analysis
 
 ## Visualization
